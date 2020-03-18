@@ -1,0 +1,12 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+body {
+  background-color: beige;
+}
+
+#description {
+    padding-top: 500px;
+}
