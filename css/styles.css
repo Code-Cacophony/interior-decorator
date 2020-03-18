@@ -1,8 +1,18 @@
-.column {
+.column1 {
+  background-color: aqua;
   width: 300px;
   float: left;
 }
-
+.column2 {
+  background-color: blueviolet;
+  width: 300px;
+  float: left;
+}
+.column3 {
+  background-color: chartreuse;
+  width: 300px;
+  float: left;
+}
 body {
   background-color: beige;
 }
